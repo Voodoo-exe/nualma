@@ -3,10 +3,10 @@ Under the Capstone 1 Project , We created an Alumni Portal
 
 # Members
 
-Nikhith Kesa 
-Jaswant Kondur
-Bhoghireddi Venkata Sai Pavan 
-Neha Chopra 
+Nikhith Kesa, 
+Jaswant Kondur,
+B Venkata Sai Pavan,
+Neha Chopra,
 Bachu Gopi Sharan
 
 # Tech Stack 
