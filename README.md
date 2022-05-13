@@ -1,7 +1,7 @@
 # nualma
 Under the Capstone 1 Project , We created an Alumni Portal 
 
-#Members
+# Members
 
 Nikhith Kesa 
 Jaswant Kondur
@@ -9,19 +9,19 @@ Bhoghireddi Venkata Sai Pavan
 Neha Chopra 
 Bachu Gopi Sharan
 
-#Tech Stack 
+# Tech Stack 
 
-#Server Side
+# Server Side
 
 For Server Side Scripting we used PHP 8
 
-#Frontend
+# Frontend
 
 For frontend we are using HTML CSS JavaScript
 
 Used Bootstrap 
 
-#Database
+# Database
 
 Used MySQL
 
